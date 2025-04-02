@@ -1,5 +1,5 @@
 <h1><strong>👨🏻‍💻| Kauê Barreto</strong></h1>
-<p>Olá, me chamo Kauê Barreto Benicio. Tenho 19 anos e sempre fui fascinado pelas letrinhas coloridas. Atualmente, estou procurando um estágio para alavancar meus conhecimentos e crescer cada vez mais como um profissional. Confira meu portifólio clicando <a href="#">aqui</a></p>
+<p>Olá, me chamo Kauê Barreto Benicio. Tenho 19 anos e sempre fui fascinado por programação. Atualmente, estou procurando um estágio para alavancar meus conhecimentos e crescer cada vez mais como um profissional. Confira meu portifólio clicando <a href="#">aqui</a></p>
 
 <p>🤖 Meus Status</p>
 <div><!--Status do Github-->
@@ -8,7 +8,7 @@
 </div>
 
 <div style="display: inline-block"><br><!--Linguagens que eu domino-->
-  <p>🤖 Linguagens e Técnologias</p>
+  <p>🤖 Linguagens e Tecnologias</p>
   <img align="center" alt="iconJS" height="30em" width="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
   <img align="center" alt="iconHTML" height="30em" width="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
   <img align="center" alt="iconCSS" height="30em" width="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
