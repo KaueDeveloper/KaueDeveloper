@@ -9,11 +9,13 @@
 
 <div style="display: inline-block"><br><!--Linguagens que eu domino-->
   <p>🤖 Linguagens e Tecnologias</p>
-  <img align="center" alt="iconJS" height="30em" width="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
   <img align="center" alt="iconHTML" height="30em" width="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
   <img align="center" alt="iconCSS" height="30em" width="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
+  <img align="center" alt="iconJS" height="30em" width="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
   <img align="center" alt="iconGIT" height="30em" width="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
   <img align="center" alt="iconNODE" heigth="30em" width="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"/>
+  <img align="center" alt="iconEXPRESS" heigth="30em" width="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg"/>
+  <img align="center" alt="iconMYSQL" heigth="30em" width="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"/>
 </div>
 
 ##
