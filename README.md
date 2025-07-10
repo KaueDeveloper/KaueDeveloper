@@ -14,7 +14,6 @@
   <img align="center" alt="iconCSS" height="30em" width="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
   <img align="center" alt="iconGIT" height="30em" width="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
   <img align="center" alt="iconNODE" height="30em" width="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-          " />
 </div>
 
 ##
