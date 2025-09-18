@@ -3,7 +3,6 @@
 
 <p>🤖 Meus Status</p>
 <div><!--Status do Github-->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KaueDeveloper&show_icons=true&theme=github_dark">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact">
 </div>
 
