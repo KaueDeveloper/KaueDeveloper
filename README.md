@@ -1,5 +1,5 @@
 <h1><strong>👨🏻‍💻| Kauê Barreto</strong></h1>
-<p>Olá, me chamo Kauê Barreto Benicio, tenho 19 anos e sempre fui fascinado por programação. Confira meu portifólio clicando <a href="https://kaue-barreto.com">aqui</a></p>
+<p>Olá, me chamo Kauê Barreto Benicio, tenho 20 anos e sempre fui fascinado por programação. Confira meu portifólio clicando <a href="https://kaue-barreto.com">aqui</a></p>
 
 <p>🤖 Meus Status</p>
 <div><!--Status do Github-->
