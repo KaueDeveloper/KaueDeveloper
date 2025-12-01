@@ -1,5 +1,5 @@
 <!-- Animação de fundo -->
-![CodingSpace SVG](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnIzeWJwY2U5NGZ1dHdncXhjNjRsMzNnMXFxcmNpdzlwencxcWM4cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eJmUEoeU1K4d4IUbpS/giphy.gif)
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG44c2RhaWg3eDQ5dmpqYXBjcTI1M3dzMnMwMGw1eDdhd2x4YnBrYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FNfcWhlz0GTkzcnZWh/giphy.gif" width="100%" height="200" alt="Matrix Background Gif">
 
 <!-- art Boas Vindas -->
 <p align="center">
@@ -41,6 +41,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
 </p>
 
+<!-- Mais sobre mim -->
 ## About me
 - My website: <a href="https://kaue-barreto.com" target="_blank">kaue-barreto.com</a>
 - Reach me at: kauebarretobenicio@gmail.com
@@ -56,8 +57,6 @@
 ---
 
 <p align='center'>
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnpqbXRwZHpzcTJnem4xYzd4aXduOWkxcDExdmF2MXgybDcwNzRycCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/OTIYVVlHZd2OkmcjQR/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img>
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnpqbXRwZHpzcTJnem4xYzd4aXduOWkxcDExdmF2MXgybDcwNzRycCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/OTIYVVlHZd2OkmcjQR/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img>
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnpqbXRwZHpzcTJnem4xYzd4aXduOWkxcDExdmF2MXgybDcwNzRycCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/OTIYVVlHZd2OkmcjQR/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img>
 </p>
 
