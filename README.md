@@ -66,7 +66,7 @@
 <table><tr>
 
 <!-- Frontend -->
-<td valign="top" width="33%">
+<td valign="top" width="25%">
 
 ### Frontend
 
@@ -78,34 +78,56 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original-wordmark.svg" alt="React Native" height="50" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" alt="Figma" height="50" />  
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" alt="Bootstrap" height="50" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Illustrator.svg" alt="IA" height="50" />
 </div>
 
 </td>
 
 <!-- Backend -->
-<td valign="top" width="33%">
+<td valign="top" width="25%">
 
 ### Backend
 
 <div align="center">  
-  <img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" alt="MySQL" height="50" />  
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" alt="MongoDB" height="50" /> 
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg" alt="Express" height="50" /> 
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" alt="Postman" height="50" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" alt="Node" height="50" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" alt="Node" height="50" />
 </div>
 
 </td>
 
 <!-- DevOps -->
-<td valign="top" width="33%">
+<td valign="top" width="25%">
 
 ### DevOps
 
 <div align="center">  
   <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vercel-Dark.svg" alt="Vercel" height="50">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Npm-Dark.svg" alt="Vercel" height="50">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Netlify-Dark.svg" alt="Vercel" height="50">
 </div>
 
 </td>
+
+<!-- Cybersegurança -->
+<td valign="top" width="25%">
+
+### Cybersecurity
+
+<div align="center">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kali-Dark.svg" alt="Kali Linux" height="50">
+</div>
+  
+</td>
+
 </tr></table>
+
+## Languages that i domain
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,mysql,mongodb)](https://skillicons.dev)
+
+## That I intend to learn
+[![My Skills](https://skillicons.dev/icons?i=prisma,aws,java,python,arch)](https://skillicons.dev)
