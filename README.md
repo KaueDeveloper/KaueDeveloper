@@ -41,7 +41,6 @@
 <!-- Mais sobre mim -->
 ## About me
 - Reach me at: kauebarretobenicio@gmail.com
-- 
 ---
 
 <p align='center'>
