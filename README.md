@@ -40,9 +40,8 @@
 
 <!-- Mais sobre mim -->
 ## About me
-- My website: <a href="https://kaue-barreto.com" target="_blank">kaue-barreto.com</a>
 - Reach me at: kauebarretobenicio@gmail.com
-
+- 
 ---
 
 <p align='center'>
