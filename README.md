@@ -30,7 +30,7 @@
 <br>
 
 <p align="center">
-  <img width="650px" src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=00BFFF&size=22&center=true&lines=Full+Stack+Developer;JavaSript+programmer;Cybersecurity+enthusiast">
+  <img width="650px" src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=00BFFF&size=22&center=true&lines=Full+Stack+Developer;JavaScript+programmer;Cybersecurity+enthusiast">
 </p>
 
 
