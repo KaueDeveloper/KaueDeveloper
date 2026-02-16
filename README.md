@@ -44,7 +44,7 @@
 ---
 
 <p align='center'>
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnpqbXRwZHpzcTJnem4xYzd4aXduOWkxcDExdmF2MXgybDcwNzRycCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/OTIYVVlHZd2OkmcjQR/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img>
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExemxmam4wamRidWd1b2pnM3doMzVtbHpjNHJ4ZTg2eHdxcncwcWYxMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Y1RYqPyQ0ZqBr4hN71/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img>
 </p>
 
 <!-- Minhas Skills -->
