@@ -1,9 +1,9 @@
 <!-- Animação de fundo -->
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTgzdTlmdjhocDZsMDliN28wZjl3dWVyeWt4NTQ1aWZubnIxcmwwNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vLb3fGlWDnBMk/giphy.gif" width="100%" height="200" alt="Matrix Background Gif">
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExenNlcDUzcTlpa205YTdkOTk2NHF3YXM1MTJzZGZ4emtzaml6cW9pMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/t4DcI9P3dNVoA/giphy.gif" width="100%" height="200" alt="Matrix Background Gif">
 
 <!-- art Boas Vindas -->
 <p align="center">
-<a href="#"><img width="650px" src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=BF00FF&size=22&center=true&lines=Hello,+World+👋;Welcome+to+My+Profile+😀;I´m+Kauê+Barreto+Benicio+👨🏻‍💻"></a>
+<a href="#"><img width="650px" src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=0091FF&size=22&center=true&lines=Hello,+World+👋;Welcome+to+My+Profile+😀;I´m+Kauê+Barreto+Benicio+👨🏻‍💻"></a>
 </p>
 
 <p align="center">
@@ -30,7 +30,7 @@
 <br>
 
 <p align="center">
-  <img width="650px" src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=BF00FF&size=22&center=true&lines=Full+Stack+Developer;JavaSript+programmer;Cybersecurity+enthusiast">
+  <img width="650px" src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=0091FF&size=22&center=true&lines=Full+Stack+Developer;JavaSript+programmer;Cybersecurity+enthusiast">
 </p>
 
 
