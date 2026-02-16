@@ -20,7 +20,7 @@
   Hi! I´m Kauê Barreto Benicio, i have 20 years old and I've always been fascinated by programming.
   I'm a Full Stack JavaScript programmer and an amateur cybersecurity enthusiast.
 
-  Learning bit by bit...
+  Constantly learning...
 
 ```
 <div><!--Redes sociais-->
