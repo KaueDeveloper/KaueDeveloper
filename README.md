@@ -3,7 +3,7 @@
 
 <!-- art Boas Vindas -->
 <p align="center">
-<a href="#"><img width="650px" src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=0091FF&size=22&center=true&lines=Hello,+World+👋;Welcome+to+My+Profile+😀;I´m+Kauê+Barreto+Benicio+👨🏻‍💻"></a>
+<a href="#"><img width="650px" src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=00BFFF&size=22&center=true&lines=Hello,+World+👋;Welcome+to+My+Profile+😀;I´m+Kauê+Barreto+Benicio+👨🏻‍💻"></a>
 </p>
 
 <p align="center">
@@ -30,7 +30,7 @@
 <br>
 
 <p align="center">
-  <img width="650px" src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=0091FF&size=22&center=true&lines=Full+Stack+Developer;JavaSript+programmer;Cybersecurity+enthusiast">
+  <img width="650px" src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=00BFFF&size=22&center=true&lines=Full+Stack+Developer;JavaSript+programmer;Cybersecurity+enthusiast">
 </p>
 
 
