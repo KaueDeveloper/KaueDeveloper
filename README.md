@@ -118,3 +118,6 @@
 
 ## That I intend to learn
 [![My Skills](https://skillicons.dev/icons?i=prisma,aws,java,python,arch)](https://skillicons.dev)
+
+## Tha i learning
+[![My Skills](https://skillicons.dev/icons?i=typescript)](https://skillicons.dev)
