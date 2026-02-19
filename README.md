@@ -116,7 +116,7 @@
 ## Languages that i domain
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,mysql,mongodb)](https://skillicons.dev)
 
-## That I intend to learn
+## That I intent to learn
 [![My Skills](https://skillicons.dev/icons?i=prisma,aws,java,python,arch)](https://skillicons.dev)
 
 ## That i learning
