@@ -116,8 +116,8 @@
 ## Languages that i domain
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,mysql,mongodb)](https://skillicons.dev)
 
-## That I intent to learn
-[![My Skills](https://skillicons.dev/icons?i=prisma,aws,java,python,arch)](https://skillicons.dev)
-
-## That i learning
-[![My Skills](https://skillicons.dev/icons?i=typescript)](https://skillicons.dev)
+<div align="center">
+  <h4>Migrando pro Java...</h4>
+  
+  ![JavaScript](https://skillicons.dev/icons?i=java)
+</div>
