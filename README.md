@@ -117,7 +117,7 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,mysql,mongodb)](https://skillicons.dev)
 
 <div align="center">
-  <h3>Migrando pro Java...</h3>
+  <h3>Migrating to Java...</h3>
   
   ![JavaScript](https://skillicons.dev/icons?i=java)
 </div>
