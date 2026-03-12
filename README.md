@@ -115,9 +115,3 @@
 
 ## Languages that i domain
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,mysql,mongodb)](https://skillicons.dev)
-
-<div align="center">
-  <h3>Migrating to Java...</h3>
-  
-  ![JavaScript](https://skillicons.dev/icons?i=java)
-</div>
