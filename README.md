@@ -1,5 +1,5 @@
 <!-- Animação de fundo -->
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWNlejBwNGZtdTRzd2I3aGo4eWk2aTgyeGk0dm84NDg4dG1mOXV1OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/J7L4aD39ohYnIIzkYF/giphy.gif" width="100%" height="200" alt="Matrix Background Gif">
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd25wOHViN3h5eXV2NjAzOWg5Y280c3J6ejQwczY1dDBvbThlY2FucCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5ba7Il0evF1LO/giphy.gif" width="100%" height="200" alt="Matrix Background Gif">
 
 <!-- art Boas Vindas -->
 <p align="center">
