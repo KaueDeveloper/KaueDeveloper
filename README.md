@@ -1,5 +1,5 @@
 <!-- Animação de fundo -->
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExenNlcDUzcTlpa205YTdkOTk2NHF3YXM1MTJzZGZ4emtzaml6cW9pMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/t4DcI9P3dNVoA/giphy.gif" width="100%" height="200" alt="Matrix Background Gif">
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWNlejBwNGZtdTRzd2I3aGo4eWk2aTgyeGk0dm84NDg4dG1mOXV1OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/J7L4aD39ohYnIIzkYF/giphy.gif" width="100%" height="200" alt="Matrix Background Gif">
 
 <!-- art Boas Vindas -->
 <p align="center">
@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
 </p>
 
 <h3 align="center">Full Stack developer from 🇧🇷</h3>
@@ -44,7 +44,7 @@
 ---
 
 <p align='center'>
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExemxmam4wamRidWd1b2pnM3doMzVtbHpjNHJ4ZTg2eHdxcncwcWYxMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Y1RYqPyQ0ZqBr4hN71/giphy.gif" width="150" height="150" frameBorder="0" class="giphy-embed" allowFullScreen></img>
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmg4YjZ5NDVvY2syaDM5ZHk5eW9ncjliMzFwNjJ5NWtzeHlkY2kyOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eg1bhkbPqMfKNS2run/giphy.gif" width="150" height="150" frameBorder="0" class="giphy-embed" allowFullScreen></img>
 </p>
 
 <!-- Minhas Skills -->
