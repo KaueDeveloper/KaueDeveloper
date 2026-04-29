@@ -1,6 +1,6 @@
 <div align="center">
   <p align="center">
-  <img src="Assets/banner-criativo.png" alt="Banner" width="100%" height="300">
+  <img src="Assets/banner-criativo.png" alt="Banner" width="100%" height="250">
 </p>
 
 <!-- Profile Views -->
@@ -21,7 +21,7 @@
 ---
 
 <p align="left">
-  <img src="file_00000000116871fb92dfb71961583a70.png" align="right" width="220" style="margin-left: 20px; border-radius: 15px;">
+  <img src="Assets/anime-photo.png" align="right" width="220" style="margin-left: 20px; border-radius: 15px;">
   <div>
   <p>Student <strong>FullStack Developer</strong> & <strong>Cybersecurity</strong></p>
 
@@ -29,7 +29,9 @@
   I am proficient in <strong>JavaScript</strong>, <strong>HTML</strong>, <strong>CSS</strong>, <strong>Next.js</strong>, and also have knowledge of <strong>SQL</strong> and <strong>NoSQL</strong> databases.<br>
   I am applying this knowledge to personal projects.
   <br><br>
-  </div>
+### Languages that i domain<br>
+  [![My Skills](https://skillicons.dev/icons?i=html,css,js,mysql,mongodb)](https://skillicons.dev)
+  <br>
 </p>
 
 <br clear="right">
@@ -39,3 +41,44 @@
 </div>
 
 ---
+
+<div align="center">
+
+![Javascript](https://img.shields.io/badge/Javascript-black?style=for-the-badge&logo=javascript&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css&logoColor=white)
+![NextJS](https://img.shields.io/badge/Next.JS-black?style=for-the-badge&logo=next.js&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-black?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-black?style=for-the-badge&logo=netlify&logoColor=white)
+
+</div>
+
+<br>
+
+<div align="center">
+<h3>Statistics</h3>
+</div>
+
+---
+
+<p align="center">
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=KaueDeveloper&locale=pt-br&mode=daily&theme=dark&hide_border=false&border_radius=5&background=000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=KaueDeveloper&show_icons=true&theme=dark&hide_border=false&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" height="200"/>
+</div>
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KaueDeveloper&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true"/>
+</p>
+
+</div>
