@@ -44,20 +44,20 @@
 
 <div align="center">
 
-![Javascript](https://img.shields.io/badge/Javascript-black?style=for-the-badge&logo=javascript&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css&logoColor=white)
-![NextJS](https://img.shields.io/badge/Next.JS-black?style=for-the-badge&logo=next.js&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-black?style=for-the-badge&logo=postman&logoColor=white)
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-black?style=for-the-badge&logo=netlify&logoColor=white)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-black?style=for-the-badge&logo=cybersecurity-linux&logoColor=white)
+![Javascript](https://img.shields.io/badge/Javascript-black?style=for-the-badge&logo=javascript&logoColor=0b00e7)
+![HTML](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5&logoColor=0b00e7)
+![CSS](https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css&logoColor=0b00e7)
+![NextJS](https://img.shields.io/badge/Next.JS-black?style=for-the-badge&logo=next.js&logoColor=0b00e7)
+![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql&logoColor=0b00e7)
+![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb&logoColor=0b00e7)
+![Node.js](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js&logoColor=0b00e7)
+![Postman](https://img.shields.io/badge/Postman-black?style=for-the-badge&logo=postman&logoColor=0b00e7)
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=0b00e7)
+![Figma](https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma&logoColor=0b00e7)
+![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=0b00e7)
+![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel&logoColor=0b00e7)
+![Netlify](https://img.shields.io/badge/Netlify-black?style=for-the-badge&logo=netlify&logoColor=0b00e7)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-black?style=for-the-badge&logo=cybersecurity-linux&logoColor=0b00e7)
 
 </div>
 
@@ -71,15 +71,15 @@
 
 <p align="center">
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=KaueDeveloper&locale=pt-br&mode=daily&theme=dark&hide_border=false&border_radius=5&background=000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=KaueDeveloper&show_icons=true&theme=dark&hide_border=false&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" height="200"/>
+  <img src="https://streak-stats.demolab.com?user=KaueDeveloper&locale=pt-br&mode=daily&theme=dark&hide_border=false&border_radius=5&background=000000&stroke=0b00e7&ring=00f700&fire=0b00e7&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=32CD32" height="200"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=KaueDeveloper&show_icons=true&theme=github-dark&hide_border=false&bg_color=000000&title_color=00f700&text_color=ffffff&icon_color=0b00e7" height="200" />
 </div>
 </p>
 
 <br>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KaueDeveloper&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KaueDeveloper&hide_border=false&bg_color=000000&color=00f700&line=ffffff&point=0b00e7&area=true&hide_border=true"/>
 </p>
 
 </div>
