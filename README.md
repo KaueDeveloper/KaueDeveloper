@@ -57,6 +57,7 @@
 ![Figma](https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma&logoColor=0b00e7)
 ![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=0b00e7)
 ![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel&logoColor=0b00e7)
+![Vercel](https://img.shields.io/badge/npm-black?style=for-the-badge&logo=npm&logoColor=0b00e7)
 ![Netlify](https://img.shields.io/badge/Netlify-black?style=for-the-badge&logo=netlify&logoColor=0b00e7)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-black?style=for-the-badge&logo=cybersecurity-linux&logoColor=0b00e7)
 
