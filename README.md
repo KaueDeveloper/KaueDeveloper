@@ -15,7 +15,7 @@
 </p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/kau%C3%AA-barreto-benicio-8418b5272)
-[![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kauebarretobenicio@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=0b00e7)](mailto:kauebarretobenicio@gmail.com)
 </div>
 
 ---
@@ -29,7 +29,7 @@
   I am proficient in <strong>JavaScript</strong>, <strong>HTML</strong>, <strong>CSS</strong>, <strong>Next.js</strong>, and also have knowledge of <strong>SQL</strong> and <strong>NoSQL</strong> databases.<br>
   I am applying this knowledge to personal projects.
   <br><br>
-### Languages that i domain<br>
+### That i domain<br>
   [![My Skills](https://skillicons.dev/icons?i=html,css,js,mysql,mongodb)](https://skillicons.dev)
   <br>
 </p>
