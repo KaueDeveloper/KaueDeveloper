@@ -31,7 +31,7 @@
   I am applying this knowledge to personal projects.
   <br><br>
 ### That i domain<br>
-  [![My Skills](https://skillicons.dev/icons?i=html,css,js,mysql,mongodb)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=html,css,js,nextjs,mysql,mongodb)](https://skillicons.dev)
   <br>
 </p>
 
