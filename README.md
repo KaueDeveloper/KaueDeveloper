@@ -6,7 +6,7 @@
 <!-- Profile Views -->
 <p align="right">
   <a href="https://github.com/KaueDeveloper">
-    <img src="https://komarev.com/ghpvc/?username=KaueDeveloper&label=Profile%20Views&color=0070F3&style=flat" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=KaueDeveloper&label=Profile%20Views&color=0b00e7&style=flat" alt="Profile Views" />
   </a>
 </p>
 
@@ -79,7 +79,7 @@
 <br>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KaueDeveloper&hide_border=false&bg_color=000000&color=00f700&line=ffffff&point=0b00e7&area=true&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KaueDeveloper&hide_border=false&bg_color=000000&color=ffffff&line=00f700&point=00f700&area=true&hide_border=true"/>
 </p>
 
 </div>
