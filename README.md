@@ -6,7 +6,8 @@
 <!-- Profile Views -->
 <p align="right">
   <a href="https://github.com/KaueDeveloper">
-    <img src="https://komarev.com/ghpvc/?username=KaueDeveloper&label=Profile%20Views&color=0b00e7&style=flat" alt="Profile Views" />
+    <img src="https://img.shields.io/github/repo-size/KaueDeveloper/KaueDeveloper?&color=0b00e7&style=flat"/>
+    <img src="https://komarev.com/ghpvc/?username=KaueDeveloper&label=Profile%20Views&color=0b00e7&style=flat"/>
   </a>
 </p>
 
